@@ -1,0 +1,10 @@
+target/
+src/main/resources/credentials.json
+src/test/resources/responses
+project/target
+tokens/
+.bloop
+.bsp
+.idea
+.metals
+.vscode
